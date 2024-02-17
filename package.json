@@ -7,9 +7,10 @@
     "heroku-postbuild": "npm run build"
   },
   "engines": {
-    "node": "15.x",
-    "npm": "7.x"
-  },
+  "node": ">=16.x",
+  "npm": ">=7.x"
+  }
+
   "devDependencies": {
     "@tailwindcss/forms": "^0.5.2",
     "alpinejs": "^3.4.2",
