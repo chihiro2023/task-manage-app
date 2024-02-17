@@ -5,7 +5,7 @@
     "dev": "vite",
     "build": "vite build"
   },
-　 "engines": {
+  "engines": {
     "node": "15.x",
     "npm": "7.x"
   },
