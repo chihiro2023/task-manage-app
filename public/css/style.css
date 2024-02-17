@@ -273,7 +273,7 @@ img {
     .task-item {
         height: 30px;
         margin-top: 5px;
-        font-size: 0.4rem;
+        font-size: 0.5rem;
         font-weight: bold;
         letter-spacing: 0;
         line-height: 30px;
@@ -281,7 +281,7 @@ img {
     .task-content {
         height: 88%;
         max-height: 88%;
-        margin: 0 2px;
+        margin: 0 3px;
     }
     .task-deadline {
         height: 88%;
