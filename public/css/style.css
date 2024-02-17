@@ -198,7 +198,7 @@ img {
 
 /*SP
 ---------------------------------------*/
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 500px) {
     /*全体
     -----------------------------------*/
     .wrapper {
