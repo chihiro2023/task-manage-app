@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>タスク管理</title>
-    <link rel="stylesheet" type="text/css" href="{{ mix('css/style.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ vite('css/style.css') }}">
     <link rel="stylesheet" href="https://unpkg.com/ress/dist/ress.min.css" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> 
     <script src="../js/script.js"></script>
